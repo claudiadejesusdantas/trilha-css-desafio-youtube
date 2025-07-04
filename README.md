@@ -6,7 +6,7 @@ as propriedades básicas da linguagem de estilização, trabalhar principalmente
 [Link do Figma](https://www.figma.com/file/lrRWUZPKnqMDZrSDJmZxUS/Desafio-de-Flexbox---DIO?node-id=0%3A1) contendo o protótipo do desafio para
 que você possa se basear.
 
-![imagem do projetot](./assets/imagem_final_youtube_exemplo.png)
+![imagem do projetot](./assets/img/imagem_final_youtube_exemplo.png)
 
 Para você realizar o desafio, **criar o arquivo e estilizar ** usando como exemplo o modelo do figma.
 
