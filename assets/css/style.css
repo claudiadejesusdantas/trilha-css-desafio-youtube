@@ -1,3 +1,45 @@
 #menu{
-    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 1rem;
+    width: 100vw;
 }
+/* BOX LOGO */
+#menu .box_logo{
+    display: flex;
+    /* background-color: red; */
+    width: 20%;
+    justify-content: space-evenly;
+}
+
+#menu .hamburguer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 20px;
+    height: 15px;
+}
+
+#menu .hamburguer span{
+    height: 3px;
+    width: 100%;
+    background-color: #000;
+}
+
+
+#menu .box_search{
+    flex-direction: center;
+    justify-self: center;
+    width: 50%;
+}
+.input_search{
+    width: 15em;
+    height: 25px;
+}
+
+.button_search{
+    height: 25px;
+}
+
