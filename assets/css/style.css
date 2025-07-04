@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 /* CABEÇALHO */
 #menu{
     /* background-color: aqua; */
@@ -77,7 +79,44 @@ main{
 /* TELA PRINCIPAL */
 #video_screen{
     width: 70%;
+    height: auto;
+    display: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding-left: 2%;
 }
+
+#video_screen iframe{
+    width: 95%;
+    height: 55%;
+}
+
+#video_screen h1{
+    font-family: 'Roboto',sans-serif;
+    font-weight: bolder;
+    padding: 5px 5px 5px 0;
+    font-size: 20px;
+}
+
+#video_screen .icons_main{
+
+}
+
+#video_screen .btn_subscribe{
+    background-image: url(../img/botao_inscrevase_main.svg);
+    
+}
+
+#video_screen p{
+    font-size: 14px;
+    padding: .5em 0;
+}
+
+#video_screen .views_main {
+    font-weight: 700;
+}
+
 /* FIM - TELA PRINCIPAL */
 
 
