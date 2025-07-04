@@ -1,10 +1,13 @@
+/* CABEÇALHO */
 #menu{
+    /* background-color: aqua; */
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
     padding: 1rem;
     width: 100vw;
+    box-sizing: border-box;
 }
 /* BOX LOGO */
 #menu .box_logo{
@@ -28,18 +31,47 @@
     background-color: #000;
 }
 
-
 #menu .box_search{
-    flex-direction: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     justify-self: center;
     width: 50%;
-}
-.input_search{
-    width: 15em;
-    height: 25px;
+    height: auto;
 }
 
-.button_search{
-    height: 25px;
+#menu .input_search{
+    border:1px solid rgba(211, 211, 211, .5);
+    height: 2.5em;
+    width: 25em;
 }
 
+#menu .button_search{
+    background-image: url(../img/lupa_icone_menu.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    border:1px solid rgba(211, 211, 211, .5);
+    cursor: pointer;
+    height: 2.5em;
+    padding: 17px;
+}
+
+#menu .box_icons{
+    width: 10em;
+    display: flex;
+    justify-content: space-between;
+}
+
+#menu .box_icons img{
+    width: 2em;
+    border-radius: 20px;
+}
+/* FIM -CABEÇALHO */
+
+/* BARRA LATERAL */
+
+
+
+
+
+/* FIM - BARRA LATERAL */
