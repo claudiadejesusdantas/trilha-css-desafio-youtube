@@ -8,6 +8,6 @@ que você possa se basear.
 
 ![imagem do projetot](./assets/imagem_final_youtube_exemplo.png)
 
-Para você realizar o desafio, criar o arquivo e **estilizar e construir** conforme o modelo do figma.
+Para você realizar o desafio, **criar o arquivo e estilizar ** usando como exemplo o modelo do figma.
 
 *Seja criativo(a) e dê a sua identidade para o Projeto. Lembre-se que para um(a) Profissional de Tecnologia é super importante ter um portfólio sólido e completo.*
